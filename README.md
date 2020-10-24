@@ -18,3 +18,7 @@ Aluno: Felipe Marques.
 ## Imagem do Projeto
 
 ![React Salario](public/react_controle_notas.png)
+
+## :octocat: Deploy:
+
+[Vercel](https://react-bootcamp-notas.vercel.app/)
